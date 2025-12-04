@@ -1,0 +1,8 @@
+{
+  "name": "GlossyTravel.ai",
+  "description": "Un planificador de viajes inteligente con estilo Glassmorphism, impulsado por Gemini para itinerarios personalizados, mapas y experiencias visuales.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
